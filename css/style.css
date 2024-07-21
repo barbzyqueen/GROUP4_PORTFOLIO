@@ -16,7 +16,7 @@ a:hover {
 .container #bg-img1{
    height:500px;
    width:100%;
-   background: url("C:/Users/Kayode/Desktop/barbz-info/PLP_GROUP4/Portfolio_Assignment/css/bg-img4.jpg");
+   background: url("css/bg-img4.jpg");
    
    background-position: right;
    background-size:cover;
@@ -52,7 +52,7 @@ h2 span {
 .contact #bg-img2{
     height:500px;
     width:100%;
-    background: url("C:/Users/Kayode/Desktop/barbz-info/PLP_GROUP4/Portfolio_Assignment/css/bg-img5.jpg");
+    background: url("css/bg-img5.jpg");
     
     background-position: top;
     background-size:cover;
